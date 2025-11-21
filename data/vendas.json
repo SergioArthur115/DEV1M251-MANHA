@@ -1,0 +1,51 @@
+[
+  {
+    "data_hora": "2025-09-30T11:02:40.032538",
+    "total": 23.275,
+    "itens": 4,
+    "forma": "Cartão de Débito - 5% desconto + Cupom inválido (ignorado)",
+    "cupom": "2"
+  },
+  {
+    "data_hora": "2025-09-30T11:29:32.156333",
+    "total": 8.549999999999999,
+    "itens": 2,
+    "forma": "Cartão de Débito - 5% desconto",
+    "cupom": "N/A"
+  },
+  {
+    "data_hora": "2025-09-30T11:49:16.399367",
+    "total": 172.5,
+    "itens": 10,
+    "forma": "Crédito 1x - sem desconto",
+    "cupom": "N/A"
+  },
+  {
+    "data_hora": "2025-10-01T09:48:11.252235",
+    "total": 47.5,
+    "itens": 9,
+    "forma": "Cartão de Débito - 5% desconto",
+    "cupom": "N/A"
+  },
+  {
+    "data_hora": "2025-10-20T11:51:48.527196",
+    "total": 45.8,
+    "itens": 3,
+    "forma": "Crédito 1x - sem desconto",
+    "cupom": "N/A"
+  },
+  {
+    "data_hora": "2025-10-20T11:52:25.871110",
+    "total": 14.22,
+    "itens": 2,
+    "forma": "Dinheiro/PIX - 10% desconto",
+    "cupom": "N/A"
+  },
+  {
+    "data_hora": "2025-10-20T11:53:16.784269",
+    "total": 33.0,
+    "itens": 1,
+    "forma": "Crédito 3x - +10%",
+    "cupom": "N/A"
+  }
+]

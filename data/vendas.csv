@@ -1,0 +1,8 @@
+data_hora;total;itens;forma;cupom
+2025-09-30T11:02:40.032538;23.275;4;Cartão de Débito - 5% desconto + Cupom inválido (ignorado);2
+2025-09-30T11:29:32.156333;8.549.999.999.999.990;2;Cartão de Débito - 5% desconto;N/A
+2025-09-30T11:49:16.399367;172.5;10;Crédito 1x - sem desconto;N/A
+2025-10-01T09:48:11.252235;47.5;9;Cartão de Débito - 5% desconto;N/A
+2025-10-20T11:51:48.527196,45.8,3,Crédito 1x - sem desconto,N/A
+2025-10-20T11:52:25.871110,14.22,2,Dinheiro/PIX - 10% desconto,N/A
+2025-10-20T11:53:16.784269,33.0,1,Crédito 3x - +10%,N/A

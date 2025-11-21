@@ -1,0 +1,37 @@
+[
+  {
+    "codigo": 4,
+    "nome": "Leite 1Lt",
+    "preco": 4.2,
+    "estoque": 10,
+    "estoque_minimo": 5
+  },
+  {
+    "codigo": 5,
+    "nome": "Café 500Gr",
+    "preco": 30.0,
+    "estoque": 3,
+    "estoque_minimo": 5
+  },
+  {
+    "codigo": 6,
+    "nome": "Farinha 1Kg",
+    "preco": 5.0,
+    "estoque": 5,
+    "estoque_minimo": 5
+  },
+  {
+    "codigo": 7,
+    "nome": "Coca-cola 2lt",
+    "preco": 8.0,
+    "estoque": 8,
+    "estoque_minimo": 5
+  },
+  {
+    "codigo": 8,
+    "nome": "Pesi 2Lt",
+    "preco": 7.9,
+    "estoque": 6,
+    "estoque_minimo": 5
+  }
+]

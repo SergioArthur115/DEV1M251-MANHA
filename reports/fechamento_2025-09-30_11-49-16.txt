@@ -1,0 +1,4 @@
+===== FECHAMENTO DO CAIXA =====
+Total arrecadado no dia: R$ 172.50
+Total de itens vendidos: 10
+===============================
